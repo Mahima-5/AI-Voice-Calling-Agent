@@ -1,0 +1,7 @@
+[2025-11-13 21:00:37] AGENT: Hello, this is an AI HR assistant calling to discuss a job opportunity. Are you available to talk now?
+[2025-11-13 21:00:52] HR: Yes.
+[2025-11-13 21:00:55] AGENT: Great, thank you for taking my call! I'm just looking to gather a few details about the candidate.
+
+Could we start with the candidate's full name, please?
+
+[2025-11-13 21:00:55] SUMMARY: Conversation ended gracefully.

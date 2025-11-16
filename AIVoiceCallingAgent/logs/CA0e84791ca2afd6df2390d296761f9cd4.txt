@@ -1,0 +1,3 @@
+[2025-11-13 21:32:37] AGENT: Hello, this is an AI HR assistant calling to discuss a job opportunity. Are you available to talk now?
+[2025-11-13 21:32:53] HR: Yes.
+[2025-11-13 21:32:55] AGENT: Hello, my name is [Your Name], and I'm calling for a quick phone screening. Could you please tell me your full name?

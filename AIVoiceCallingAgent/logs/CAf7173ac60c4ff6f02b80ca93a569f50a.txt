@@ -1,0 +1,7 @@
+[2025-11-13 21:30:31] AGENT: Hello, this is an AI HR assistant calling to discuss a job opportunity. Are you available to talk now?
+[2025-11-13 21:30:47] HR: Yes.
+[2025-11-13 21:30:49] AGENT: Hello! My name is Alex, and I'm calling from HR to conduct a brief phone screening. Could you please share your full name?
+[2025-11-13 21:31:06] HR: Addicting.
+[2025-11-13 21:31:08] AGENT: Thank you. Could you please spell out your full name for me to ensure I have it correctly?
+[2025-11-13 21:31:21] HR: a b, i t, i
+[2025-11-13 21:31:25] AGENT: Thank you for spelling that out. So, your full name is Abiti. Could you please tell me about your years of experience in your field?

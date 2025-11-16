@@ -1,0 +1,7 @@
+[2025-11-13 21:03:41] AGENT: Hello, this is an AI HR assistant calling to discuss a job opportunity. Are you available to talk now?
+[2025-11-13 21:03:58] HR: Yes.
+[2025-11-13 21:04:00] AGENT: Hello! Thank you for taking my call. I'm just looking to gather a few details about the candidate you've put forward for the Senior Software Engineer role.
+
+Could you please provide the candidate's full name for me?
+
+[2025-11-13 21:04:00] SUMMARY: Conversation ended gracefully.

@@ -1,0 +1,5 @@
+[2025-11-13 22:01:57] AGENT: Hello, this is an AI HR assistant calling to discuss a job opportunity. Are you available to talk now?
+[2025-11-13 22:02:10] HR: Yes.
+[2025-11-13 22:02:12] AGENT: Could you please repeat that?
+[2025-11-13 22:02:21] HR: Yes.
+[2025-11-13 22:02:22] AGENT: Could you please repeat that?
